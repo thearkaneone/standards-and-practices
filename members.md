@@ -166,6 +166,7 @@ Format:
 | Joseph Parkton | [jparkton] (https://github.com/jparkton) | Autistic + Blind, learning to code in Python |
 | Justin Ellery | [Cellery72](https://github.com/Cellery72>) | Java, learning Python, 1st year CPA |
 | Justin Kim | [jstnk](https://github.com/jstnk) || Currently learning Python
+| Kane Dodman | [thearkaneone] (https://github.com/thearkaneone) | Computer Science student with approx. 1 year and a half experience coding in Java/C# |
 | Karthika Pai | [karthikapai](https://github.com/karthikapai) | C, C++, Python. learning Ruby, Ruby on Rails, HTML and CSS|
 | Kathryn Newbould | [KathrynN](https://github.com/KathrynN) | Learning Java. |
 | Kathy Xiong | [xiaokexi](https://github.com/xiaokexi) | A beginner in Python and programming in general. Hoping to become a professional developer eventually. Interested in honing my skills and getting to know the open-source community.|
